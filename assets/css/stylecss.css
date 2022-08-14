@@ -1,0 +1,11 @@
+	#mapid {
+		margin-top: 0px;
+		height: 65%;
+		width: 60%;
+	    margin-bottom:20px;
+		margin-left: 400px;
+		position: float;
+	}
+	html, body {
+        height: 100%;
+      }
